@@ -74,9 +74,7 @@ SebbiAI is a fully offline, privacy-focused AI chatbot that runs entirely on you
 
 ## 🚀 Getting Started
 
-1. Clone this repository
-2. Open in Android Studio
-3. Build and run on your device
+3. Download from release
 4. Download a GGUF model or import your own
 5. Start chatting!
 
@@ -104,12 +102,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-## 📄 License
-
-This project is open source. See LICENSE for details.
-
----
-
 <p align="center">
   <b>Made with ❤️ by Seb</b><br>
   <a href="https://instagram.com/Sebulique">@Sebulique</a>
@@ -119,3 +111,4 @@ This project is open source. See LICENSE for details.
   Thank you for checking out SebbiAI!<br>
   Your support means everything ✨
 </p>
+
